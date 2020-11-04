@@ -1,0 +1,2 @@
+#Display the msg
+pirint("First Python Code")
